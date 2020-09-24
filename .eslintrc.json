@@ -39,6 +39,7 @@
       "camelcase": "off",
       "@typescript-eslint/camelcase": ["off"],
       "no-use-before-define": "off",
+      "no-unused-expressions": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
